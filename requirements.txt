@@ -1,0 +1,8 @@
+tensorflow
+os
+pandas
+numpy
+scikit-image
+matplotlib
+scikit-learn
+import-ipynb
