@@ -8,7 +8,9 @@ Scripts:
 
 -  model.py contains a class for creating the model;
 
-*  train.py shows the code I used to train the model;
+-  losses.py contains loss function used to compile the model: 
+
+*  train.py shows the code used to train the model;
 
 *  datasets.py contains code to create datasets;
 
